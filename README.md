@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Amanda Zambelli!</h1>
-<h3 align="center">Software Developer Student</h3>
+<h2 align="center">Hi, I'm Amanda Zambelli! 👋</h2>
+<h3 align="center">Full Stack Developer</h3>
 
-<p>Hello! My name is Amanda Zambelli and I'm a Web Development Student at Trybe. You can also reach me at Linkedin!</p>
+<p>Currently studying Software Development at Trybe. You can also reach me at Linkedin!</p>
 
 - 📫 Reach me **amandazambelli@ymail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/amanda-valente-zambelli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanda profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amanda-valente-zambelli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanda profile" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
