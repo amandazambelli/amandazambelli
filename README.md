@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amanda Zambelli!</h1>
 <h3 align="center">Software Developer Student</h3>
 
-<p>Journalist with more than ten years of experience as copywriter in several communication and marketing agencies.</p>
-<p>Currently studying Software Development at Trybe and very enthusiastic for learning about UX and Agile Methodologies.</p>
+<p>Hello! My name is Amanda Zambelli and I'm a Web Development Student at Trybe. You can also reach me at Linkedin!</p>
 
 - 📫 Reach me **amandazambelli@ymail.com**
 
