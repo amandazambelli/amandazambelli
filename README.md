@@ -1,5 +1,4 @@
 <h2 align="center">Hi, I'm Amanda Zambelli! 👋</h2>
-<h3 align="center">Full Stack Developer</h3>
 
 <p>Currently studying Software Development at Trybe. You can also reach me at Linkedin!</p>
 
